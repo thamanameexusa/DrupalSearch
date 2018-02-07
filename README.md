@@ -45,7 +45,12 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 
 
 ## Contributors
-- Purushoṭhaman
+- [Purushoṭhaman] [linkedin-profile-link]
+
+
+## Reference
+- [https://github.com/nwjlyons/google-search] [reference-1]
+- [https://github.com/seregatte/DrupalContribSearch] [reference-2]
 
 ## License
 Copyright (c) 2018 Thaman @DrupalGeeks
@@ -73,3 +78,7 @@ SOFTWARE.
 [pc-plugin-link]: https://packagecontrol.io/packages/DrupalSearch
 [drupal-hook-link]: https://api.drupal.org/api/drupal/includes!module.inc/group/hooks/7.x
 [download-link]: https://github.com/thamanameexusa/DrupalSearch/archive/master.zip
+[reference-1]: https://github.com/nwjlyons/google-search
+[reference-2]: https://github.com/seregatte/DrupalContribSearch
+[linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
+
