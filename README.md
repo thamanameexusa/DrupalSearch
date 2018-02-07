@@ -45,12 +45,12 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 
 
 ## Contributors
-- [Purushoṭhaman] [linkedin-profile-link]
+- [Purushoṭhaman][linkedin-profile-link]
 
 
 ## Reference
-- [https://github.com/nwjlyons/google-search] [reference-1]
-- [https://github.com/seregatte/DrupalContribSearch] [reference-2]
+- [https://github.com/nwjlyons/google-search][reference-1]
+- [https://github.com/seregatte/DrupalContribSearch][reference-2]
 
 ## License
 Copyright (c) 2018 Thaman @DrupalGeeks
