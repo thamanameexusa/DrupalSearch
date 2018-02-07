@@ -1,0 +1,18 @@
+[
+  {
+    "id": "DrupalSearch",
+    "caption": "Drupal Search",
+    "children": [
+      {
+        "id": "CoreChangeRecords",
+        "caption": "Core - Change records",
+        "command": "drupal8_core_change_records_from_input"
+      },
+      {
+        "id": "ContribChangeRecords",
+        "caption": "Contrib - Change records",
+        "command": "drupal8_contrib_change_records"
+      }
+    ]
+  }
+]

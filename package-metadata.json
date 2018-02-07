@@ -1,0 +1,8 @@
+{
+  "platforms": ["*"],
+  "url": "https://github.com/thamanameexusa/DrupalSearch",
+  "version": "1.0.0-alpha1",
+  "sublime_text": "*",
+  "dependencies": [],
+  "description": "Sublime 3 Plugin helps to search change records of the Drupal hooks (core and contrib modules)."
+}

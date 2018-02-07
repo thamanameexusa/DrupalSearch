@@ -1,0 +1,32 @@
+[
+  {
+    "caption": "Preferences",
+    "mnemonic": "n",
+    "id": "preferences",
+    "children":
+    [
+      {
+        "caption": "Package Settings",
+        "mnemonic": "P",
+        "id": "package-settings",
+        "children":
+        [
+          {
+            "caption": "Drupal Search",
+            "children":
+            [
+              {
+                "caption": "Settings",
+                "command": "edit_settings",
+                "args": {
+                  "base_file": "${packages}/DrupalSearch/DrupalSearch.sublime-settings",
+                  "default": "// Settings in here override those in \"${packages}/DrupalSearch/DrupalSearch.sublime-settings\".\n\n// chrome, firefox, more valid values here https://docs.python.org/2/library/webbrowser.html#webbrowser.register\n\n{\n\t$0\n}\n"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

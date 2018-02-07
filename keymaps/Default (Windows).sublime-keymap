@@ -1,0 +1,5 @@
+[
+  {"keys": ["ctrl+shift+s"], "command": "drupal8_core_change_records_from_selection"},
+  {"keys": ["ctrl+shift+d"], "command": "drupal8_core_change_records_from_input"},
+  {"keys": ["ctrl+shift+o"], "command": "drupal8_contrib_change_records"}
+]

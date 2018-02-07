@@ -1,0 +1,4 @@
+[
+  {"caption": "Drupal Search: Core - Change records", "command": "drupal8_core_change_records"},
+  {"caption": "Drupal Search: Contrib - Change records", "command": "drupal8_contrib_change_records"}
+]
