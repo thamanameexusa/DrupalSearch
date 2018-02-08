@@ -36,7 +36,7 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 
 ## Preview
 
-```html<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/l4pSX0U0o2d76ghLq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sublime-change-records-drupalsearch-l4pSX0U0o2d76ghLq">via GIPHY</a></p>```
+![preview][drupal-core-hook-select-and-search]
 
 ## License
 The code is under MIT license:
@@ -74,3 +74,4 @@ SOFTWARE.
 [reference-2]: https://github.com/seregatte/DrupalContribSearch
 [linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
 [dgeek-link]: https://www.drupal.org/u/purushothaman-chinnadurai-drupal-geeks
+[drupal-core-hook-select-and-search]: https://image.ibb.co/nFRtac/ezgif_2_e4ebe98ea9.gif
