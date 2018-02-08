@@ -42,16 +42,16 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 
 Place cursor inside a word or select some text and press `alt+shift+d`, `alt+shift+s`
 
-### Context Menu
+- Context Menu
 ![usage-1][context-menu]
 
-### Command Pallette
+- Command Pallette
 ![usage-2][command-pallette]
 
-Press `alt+shift+d`, `alt+shift+i` to search change records of the Drupal core hooks.
+- Press `alt+shift+d`, `alt+shift+i` to search change records of the Drupal core hooks.
 ![usage-3][drupal-core-hook-user-input-and-search]
 
-Press `alt+shift+o`, `alt+shift+i` to search change records of the Drupal contributed modules.
+- Press `alt+shift+o`, `alt+shift+i` to search change records of the Drupal contributed modules.
 ![usage-4][drupal-contrib-module-user-input-and-search]
 
 ## License
@@ -91,7 +91,7 @@ SOFTWARE.
 [linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
 [dgeek-link]: https://www.drupal.org/u/purushothaman-chinnadurai-drupal-geeks
 [drupal-core-hook-select-and-search]: https://i.imgur.com/0fMRKWY.gif
-[context-menu]: https://imgur.com/GJWIOcb
-[command-pallette]: https://imgur.com/Nsj2f6G
-[drupal-core-hook-user-input-and-search]: https://imgur.com/6YyrOSU
-[drupal-contrib-module-user-input-and-search]: https://imgur.com/X1VGnB2
+[context-menu]: https://i.imgur.com/Nsj2f6G.png
+[command-pallette]: https://i.imgur.com/GJWIOcb.png
+[drupal-core-hook-user-input-and-search]: https://i.imgur.com/6YyrOSU.png
+[drupal-contrib-module-user-input-and-search]: https://i.imgur.com/X1VGnB2.png
