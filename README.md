@@ -38,6 +38,22 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 
 ![preview][drupal-core-hook-select-and-search]
 
+## Usage
+
+Place cursor inside a word or select some text and press `alt+shift+d`, `alt+shift+s`
+
+### Context Menu
+![usage-1][context-menu]
+
+### Command Pallette
+![usage-2][command-pallette]
+
+Press `alt+shift+d`, `alt+shift+i` to search change records of the Drupal core hooks.
+![usage-3][drupal-core-hook-user-input-and-search]
+
+Press `alt+shift+o`, `alt+shift+i` to search change records of the Drupal contributed modules.
+![usage-4][drupal-contrib-module-user-input-and-search]
+
 ## License
 The code is under MIT license:
 
@@ -75,3 +91,7 @@ SOFTWARE.
 [linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
 [dgeek-link]: https://www.drupal.org/u/purushothaman-chinnadurai-drupal-geeks
 [drupal-core-hook-select-and-search]: https://i.imgur.com/0fMRKWY.gif
+[context-menu]: https://imgur.com/GJWIOcb
+[command-pallette]: https://imgur.com/Nsj2f6G
+[drupal-core-hook-user-input-and-search]: https://imgur.com/6YyrOSU
+[drupal-contrib-module-user-input-and-search]: https://imgur.com/X1VGnB2
