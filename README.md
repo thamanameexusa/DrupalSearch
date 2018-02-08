@@ -35,18 +35,15 @@ Or you can download the package as a zip file [https://github.com/thamanameexusa
 You can edit the settings by going to Preferences -> Package Settings -> DrupalSearch -> Settings
 
 ## Preview
-
+Place cursor inside a word or select some text and press `alt+shift+d`, `alt+shift+s`.
 ![preview][drupal-core-hook-select-and-search]
 
 ## Usage
-
-Place cursor inside a word or select some text and press `alt+shift+d`, `alt+shift+s`
+- Command Pallette
+![usage-2][command-pallette]
 
 - Context Menu
 ![usage-1][context-menu]
-
-- Command Pallette
-![usage-2][command-pallette]
 
 - Press `alt+shift+d`, `alt+shift+i` to search change records of the Drupal core hooks.
 ![usage-3][drupal-core-hook-user-input-and-search]
@@ -91,7 +88,7 @@ SOFTWARE.
 [linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
 [dgeek-link]: https://www.drupal.org/u/purushothaman-chinnadurai-drupal-geeks
 [drupal-core-hook-select-and-search]: https://i.imgur.com/0fMRKWY.gif
-[context-menu]: https://i.imgur.com/Nsj2f6G.png
-[command-pallette]: https://i.imgur.com/GJWIOcb.png
+[context-menu]: https://i.imgur.com/GJWIOcb.png
+[command-pallette]: https://i.imgur.com/Nsj2f6G.png
 [drupal-core-hook-user-input-and-search]: https://i.imgur.com/6YyrOSU.png
 [drupal-contrib-module-user-input-and-search]: https://i.imgur.com/X1VGnB2.png
