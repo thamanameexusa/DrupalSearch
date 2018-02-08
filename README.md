@@ -12,9 +12,9 @@ This package adds:
 * A pallete command that will ask you what to search within Drupal contrib modules
 
 ## Keybindings
-- To search from selected text (core hooks):  ""alt+shift+d", "alt+shift+s""
-- To search from user imput (core hooks):  "alt+shift+d", "alt+shift+i"
-- To search from user imput (contrib modules hooks):  "alt+shift+o", "alt+shift+i"
+- To search from selected text (core hooks):  `alt+shift+d`, `alt+shift+s`
+- To search from user imput (core hooks):  `alt+shift+d`, `alt+shift+i`
+- To search from user imput (contrib modules hooks):  `alt+shift+o`, `alt+shift+i`
 
 ## Install
 If you're using the [Sublime Package Manger][pc-link] hold down Ctrl+Shift+P and type
