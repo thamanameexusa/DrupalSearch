@@ -36,10 +36,7 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 
 ## Preview
 
-
-## Reference
-- [https://github.com/nwjlyons/google-search][reference-1]
-- [https://github.com/seregatte/DrupalContribSearch][reference-2]
+```<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/l4pSX0U0o2d76ghLq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sublime-change-records-drupalsearch-l4pSX0U0o2d76ghLq">via GIPHY</a></p>```
 
 ## License
 The code is under MIT license:
@@ -63,6 +60,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Reference
+- [https://github.com/nwjlyons/google-search][reference-1]
+- [https://github.com/seregatte/DrupalContribSearch][reference-2]
 
 [pc-link]: https://packagecontrol.io
 [pc-image]: https://img.shields.io/packagecontrol/dt/ApplySyntax.svg
