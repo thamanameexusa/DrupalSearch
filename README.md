@@ -44,16 +44,14 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 ## Preview
 
 
-## Contributors
-- [Purushoṭhaman][linkedin-profile-link]
-
-
 ## Reference
 - [https://github.com/nwjlyons/google-search][reference-1]
 - [https://github.com/seregatte/DrupalContribSearch][reference-2]
 
 ## License
-Copyright (c) 2018 Thaman @DrupalGeeks
+The code is under MIT license:
+
+Copyright (c) 2018 [Purushoṭhaman][linkedin-profile-link] [@DrupalGeeks][dgeek-link]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -81,4 +79,4 @@ SOFTWARE.
 [reference-1]: https://github.com/nwjlyons/google-search
 [reference-2]: https://github.com/seregatte/DrupalContribSearch
 [linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
-
+[dgeek-link]: https://www.drupal.org/u/purushothaman-chinnadurai-drupal-geeks
