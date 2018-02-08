@@ -2,7 +2,7 @@
 [![Package Control Downloads][pc-image]][pc-plugin-link]
 
 # DrupalSearch
-Sublime 3 Plugin helps to search change records of the [Drupal 7 hooks][drupal-hook-link] (core and contrib modules).
+Sublime 3 Plugin helps to search change records for the [Drupal 7 hooks][drupal-hook-link] (core and contrib modules).
 
 This package adds:
 
