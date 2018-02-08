@@ -36,7 +36,7 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 
 ## Preview
 
-```<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/l4pSX0U0o2d76ghLq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sublime-change-records-drupalsearch-l4pSX0U0o2d76ghLq">via GIPHY</a></p>```
+```html<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/l4pSX0U0o2d76ghLq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sublime-change-records-drupalsearch-l4pSX0U0o2d76ghLq">via GIPHY</a></p>```
 
 ## License
 The code is under MIT license:
