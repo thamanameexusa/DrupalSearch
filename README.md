@@ -74,4 +74,4 @@ SOFTWARE.
 [reference-2]: https://github.com/seregatte/DrupalContribSearch
 [linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
 [dgeek-link]: https://www.drupal.org/u/purushothaman-chinnadurai-drupal-geeks
-[drupal-core-hook-select-and-search]: https://i.imgur.com/XAvKLX1.gif
+[drupal-core-hook-select-and-search]: https://i.imgur.com/0fMRKWY.gifv
