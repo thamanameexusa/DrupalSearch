@@ -20,10 +20,24 @@ This package adds:
 If you're using the [Sublime Package Manger][pc-link] hold down Ctrl+Shift+P and type
 `Package Control: Install Package`. Then search for `DrupalSearch` and hit return.
 
-If you're not using the package manager then go to your Sublime packages directory(Sublime Text/Packages) Then run this command `git@github.com:thamanameexusa/DrupalSearch.git`.
+If you're not using the package manager, go to your Sublime packages directory(Sublime Text/Packages).
+Then run this command `git clone git@github.com:thamanameexusa/DrupalSearch.git`.
 
-Or you can download the package as a zip file [https://github.com/thamanameexusa/DrupalSearch/archive/master.zip][download-link] then copy it into your Sublime packages directory.
+Or you can download the package as a zip file [https://github.com/thamanameexusa/DrupalSearch/archive/master.zip][download-link]
+Then copy it into your Sublime packages directory.
 
+The "Packages" directory can be found in the following locations:
+* OS X:
+  ~/Library/Application Support/Sublime Text 2/Packages/
+  ~/Library/Application Support/Sublime Text 3/Packages/
+
+* Linux:
+  ~/.config/sublime-text-2/Packages/
+  ~/.config/sublime-text-3/Packages/
+
+* Windows:
+  %APPDATA%/Sublime Text 2/Packages/
+  %APPDATA%/Sublime Text 3/Packages/
 
 ## 🔗 Settings
 ```js
@@ -36,20 +50,20 @@ You can edit the settings by going to Preferences -> Package Settings -> DrupalS
 
 ## 🔗 Preview
 Place cursor inside a word or select some text and press `alt+shift+d`, `alt+shift+s`.
-![preview][drupal-core-hook-select-and-search]
+![GIF of the Drupal core hook select and search][preview-gif]
 
 ## 🔗 Usage
 - Command Pallette
-![usage-2][command-pallette]
+![Screenshot of Command pallette][usage-1-image]
 
 - Context Menu
-![usage-1][context-menu]
+![Screenshot of Context menu][usage-2-image]
 
 - Press `alt+shift+d`, `alt+shift+i` to search change records of the Drupal core hooks.
-![usage-3][drupal-core-hook-user-input-and-search]
+![Screenshot of Drupal core hook user input][usage-3-image]
 
 - Press `alt+shift+o`, `alt+shift+i` to search change records of the Drupal contributed modules.
-![usage-4][drupal-contrib-module-user-input-and-search]
+![Screenshot of Drupal contrib module user input][usage-4-image]
 
 ㊗️ Happy Searching!
 
@@ -89,8 +103,8 @@ SOFTWARE.
 [reference-2]: https://github.com/seregatte/DrupalContribSearch
 [linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
 [dgeek-link]: https://www.drupal.org/u/purushothaman-chinnadurai-drupal-geeks
-[drupal-core-hook-select-and-search]: https://i.imgur.com/0fMRKWY.gif
-[context-menu]: https://i.imgur.com/GJWIOcb.png
-[command-pallette]: https://i.imgur.com/Nsj2f6G.png
-[drupal-core-hook-user-input-and-search]: https://i.imgur.com/6YyrOSU.png
-[drupal-contrib-module-user-input-and-search]: https://i.imgur.com/X1VGnB2.png
+[preview-gif]: https://i.imgur.com/0fMRKWY.gif
+[usage-1-image]: https://i.imgur.com/Nsj2f6G.png
+[usage-2-image]: https://i.imgur.com/GJWIOcb.png
+[usage-3-image]: https://i.imgur.com/6YyrOSU.png
+[usage-4-image]: https://i.imgur.com/X1VGnB2.png
