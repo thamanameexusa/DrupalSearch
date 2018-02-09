@@ -56,7 +56,7 @@ Place cursor inside a word or select some text and press `alt+shift+d`, `alt+shi
 ## License
 The code is under MIT license:
 
-Copyright (c) 2018 [Purushoṭhaman][linkedin-profile-link] [@DrupalGeeks][dgeek-link]
+Copyright (c) 2018 ☮️ [Purushoṭhaman][linkedin-profile-link] [@DrupalGeeks][dgeek-link]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
