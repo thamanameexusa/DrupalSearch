@@ -26,18 +26,22 @@ Then run this command `git clone git@github.com:thamanameexusa/DrupalSearch.git`
 Or you can download the package as a zip file [https://github.com/thamanameexusa/DrupalSearch/archive/master.zip][download-link]
 Then copy it into your Sublime packages directory.
 
-The "Packages" directory can be found in the following locations:
+The `Packages` directory can be found in the following locations:
+
 * OS X:
-  ~/Library/Application Support/Sublime Text 2/Packages/
-  ~/Library/Application Support/Sublime Text 3/Packages/
+
+        ~/Library/Application Support/Sublime Text 2/Packages/
+        ~/Library/Application Support/Sublime Text 3/Packages/
 
 * Linux:
-  ~/.config/sublime-text-2/Packages/
-  ~/.config/sublime-text-3/Packages/
+
+        ~/.config/sublime-text-2/Packages/
+        ~/.config/sublime-text-3/Packages/
 
 * Windows:
-  %APPDATA%/Sublime Text 2/Packages/
-  %APPDATA%/Sublime Text 3/Packages/
+
+        %APPDATA%/Sublime Text 2/Packages/
+        %APPDATA%/Sublime Text 3/Packages/
 
 ## 🔗 Settings
 ```js
