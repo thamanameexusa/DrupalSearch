@@ -11,12 +11,12 @@ This package adds:
 * A pallete command that will ask you what to search within Drupal core
 * A pallete command that will ask you what to search within Drupal contrib modules
 
-## 👉 Keybindings
+## 🔗 Keybindings
 - To search from selected text (core hooks):  `alt+shift+d`, `alt+shift+s`
 - To search from user imput (core hooks):  `alt+shift+d`, `alt+shift+i`
 - To search from user imput (contrib modules hooks):  `alt+shift+o`, `alt+shift+i`
 
-## 📌 Install
+## 🔗 Install
 If you're using the [Sublime Package Manger][pc-link] hold down Ctrl+Shift+P and type
 `Package Control: Install Package`. Then search for `DrupalSearch` and hit return.
 
@@ -34,11 +34,11 @@ Or you can download the package as a zip file [https://github.com/thamanameexusa
 ```
 You can edit the settings by going to Preferences -> Package Settings -> DrupalSearch -> Settings
 
-## Preview
+## 🔗 Preview
 Place cursor inside a word or select some text and press `alt+shift+d`, `alt+shift+s`.
 ![preview][drupal-core-hook-select-and-search]
 
-## Usage
+## 🔗 Usage
 - Command Pallette
 ![usage-2][command-pallette]
 
@@ -51,7 +51,7 @@ Place cursor inside a word or select some text and press `alt+shift+d`, `alt+shi
 - Press `alt+shift+o`, `alt+shift+i` to search change records of the Drupal contributed modules.
 ![usage-4][drupal-contrib-module-user-input-and-search]
 
-💎 ㊗️ Happy Searching!
+㊗️ Happy Searching!
 
 ## License
 The code is under MIT license:
