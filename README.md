@@ -21,7 +21,8 @@ If you're using the [Sublime Package Manger][pc-link] hold down Ctrl+Shift+P and
 `Package Control: Install Package`. Then search for `DrupalSearch` and hit return.
 
 If you're not using the package manager, go to your Sublime packages directory(Sublime Text/Packages).
-Then run this command `git clone git@github.com:thamanameexusa/DrupalSearch.git`.
+Then run this command
+> `git clone git@github.com:thamanameexusa/DrupalSearch.git`
 
 Or you can download the package as a zip file [https://github.com/thamanameexusa/DrupalSearch/archive/master.zip][download-link]
 Then copy it into your Sublime packages directory.
