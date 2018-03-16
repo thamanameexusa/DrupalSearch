@@ -106,7 +106,7 @@ SOFTWARE.
 [download-link]: https://github.com/thamanameexusa/DrupalSearch/archive/master.zip
 [reference-1]: https://github.com/nwjlyons/google-search
 [reference-2]: https://github.com/seregatte/DrupalContribSearch
-[linkedin-profile-link]: www.linkedin.com/in/purushothaman-chinnadurai-ba737171
+[linkedin-profile-link]: https://www.linkedin.com/in/purushothaman-chinnadurai-ba737171
 [dgeek-link]: https://www.drupal.org/u/purushothaman-chinnadurai-drupal-geeks
 [preview-gif]: https://i.imgur.com/0fMRKWY.gif
 [usage-1-image]: https://i.imgur.com/Nsj2f6G.png
